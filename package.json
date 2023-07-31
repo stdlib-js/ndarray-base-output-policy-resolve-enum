@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-output-policy-resolve-enum",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Return the enumeration constant associated with a supported ndarray data type policy value.",
   "license": "Apache-2.0",
   "author": {
@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/ndarray-base-output-policy-enum2str": "github:stdlib-js/ndarray-base-output-policy-enum2str#main",
-    "@stdlib/ndarray-base-output-policy-str2enum": "github:stdlib-js/ndarray-base-output-policy-str2enum#main"
+    "@stdlib/ndarray-base-output-policy-str2enum": "^0.0.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-integer": "^0.0.8",
