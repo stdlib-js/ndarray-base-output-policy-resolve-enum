@@ -41,6 +41,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-output-policy-resolve-enum@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-output-policy-resolve-enum/tags). For example,
+
+```javascript
 import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-output-policy-resolve-enum@v0.0.1-esm/index.mjs';
 ```
 
@@ -95,7 +100,7 @@ var v = resolve( 'beep' );
 <body>
 <script type="module">
 
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-output-policy-resolve-enum@v0.0.1-esm/index.mjs';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-output-policy-resolve-enum@esm/index.mjs';
 
 var v = resolve( 'same' );
 // returns <number>
