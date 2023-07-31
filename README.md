@@ -41,7 +41,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-output-policy-resolve-enum@esm/index.mjs';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-output-policy-resolve-enum@v0.0.1-esm/index.mjs';
 ```
 
 #### resolve( policy )
@@ -95,7 +95,7 @@ var v = resolve( 'beep' );
 <body>
 <script type="module">
 
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-output-policy-resolve-enum@esm/index.mjs';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-output-policy-resolve-enum@v0.0.1-esm/index.mjs';
 
 var v = resolve( 'same' );
 // returns <number>
