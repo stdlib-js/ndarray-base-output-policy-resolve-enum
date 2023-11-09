@@ -1,24 +1,5 @@
+"use strict";var n=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var u=n(function(m,t){
+var s=require('@stdlib/ndarray-base-output-policy-enum2str/dist'),i=require('@stdlib/ndarray-base-output-policy-str2enum/dist');function a(e){var r=typeof e;return r==="number"?s(e)?e:null:r==="string"?i(e):null}t.exports=a
+});var v=u();module.exports=v;
 /** @license Apache-2.0 */
-
-'use strict';
-
-/**
-* Return the enumeration constant associated with a supported ndarray data type policy value.
-*
-* @module @stdlib/ndarray-base-output-policy-resolve-enum
-*
-* @example
-* var resolve = require( '@stdlib/ndarray-base-output-policy-resolve-enum' );
-*
-* var v = resolve( 'same' );
-* // returns <number>
-*/
-
-// MODULES //
-
-var main = require( './main.js' );
-
-
-// EXPORTS //
-
-module.exports = main;
+//# sourceMappingURL=index.js.map
