@@ -185,6 +185,11 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
+## License
+
+See [LICENSE][stdlib-license].
+
+
 ## Copyright
 
 Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
@@ -200,8 +205,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/ndarray-base-output-policy-resolve-enum.svg
 [npm-url]: https://npmjs.org/package/@stdlib/ndarray-base-output-policy-resolve-enum
 
-[test-image]: https://github.com/stdlib-js/ndarray-base-output-policy-resolve-enum/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/ndarray-base-output-policy-resolve-enum/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/ndarray-base-output-policy-resolve-enum/actions/workflows/test.yml/badge.svg?branch=v0.2.0
+[test-url]: https://github.com/stdlib-js/ndarray-base-output-policy-resolve-enum/actions/workflows/test.yml?query=branch:v0.2.0
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/ndarray-base-output-policy-resolve-enum/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/ndarray-base-output-policy-resolve-enum?branch=main
@@ -230,6 +235,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/ndarray-base-output-policy-resolve-enum/tree/esm
 [esm-readme]: https://github.com/stdlib-js/ndarray-base-output-policy-resolve-enum/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/ndarray-base-output-policy-resolve-enum/blob/main/branches.md
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-base-output-policy-resolve-enum/main/LICENSE
 
 [@stdlib/ndarray/output-dtype-policies]: https://github.com/stdlib-js/ndarray-output-dtype-policies
 
